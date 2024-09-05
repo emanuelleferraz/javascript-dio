@@ -12,4 +12,6 @@ Desenvolvimento de uma Pokedex usando a API PokeApi. Utiliza HTML, CSS, e JavaSc
   - HTML
   - CSS  
   - PokeApi
+    
+  ![Pokedex](Pokedex.png)
 
