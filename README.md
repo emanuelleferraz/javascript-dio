@@ -15,3 +15,5 @@ Desenvolvimento de uma Pokedex usando a API PokeApi. Utiliza HTML, CSS, e JavaSc
     
   ![Pokedex](Pokedex.png)
 
+## Módulo III
+Este módulo é focado em tipos de dados e seus escopos, funções e manipulação de listas, promises e sua manipulação e assincronismo.
