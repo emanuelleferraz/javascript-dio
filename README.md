@@ -17,3 +17,8 @@ Desenvolvimento de uma Pokedex usando a API PokeApi. Utiliza HTML, CSS, e JavaSc
 
 ## Módulo III
 Este módulo é focado em tipos de dados e seus escopos, funções e manipulação de listas, promises e sua manipulação e assincronismo.
+
+## Módulo IV
+Este módulo é focado na criação de um portfólio profissional utilizando HTML, JavaScript e CSS.
+
+  ![Portfólio](portfolio-emanuelle.png)
